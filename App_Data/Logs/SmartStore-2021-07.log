@@ -1,0 +1,246 @@
+﻿SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-06T08:56:35.6739530Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-06T08:56:35.8059614Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-07-06T08:56:35.9634846Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 156 ms.
+    DateTime=2021-07-06T08:56:35.9664843Z
+SmartStore Verbose: 16 : Plugin changes detected in hash.
+    DateTime=2021-07-06T08:56:35.9824843Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 573 ms.
+    DateTime=2021-07-06T08:56:36.3840880Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-06T08:56:36.3870870Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-06T09:01:55.9115181Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-06T09:01:56.0745194Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-07-06T09:01:56.2016224Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 126 ms.
+    DateTime=2021-07-06T09:01:56.2056284Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 511 ms.
+    DateTime=2021-07-06T09:01:56.5903711Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-06T09:01:56.5963705Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-06T11:05:34.1922664Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-06T11:05:34.4722660Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-07-06T11:05:34.6510868Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 177 ms.
+    DateTime=2021-07-06T11:05:34.6560984Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 833 ms.
+    DateTime=2021-07-06T11:05:35.3120885Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-06T11:05:35.3160872Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-07T15:06:57.3232379Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-07T15:06:57.5062353Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-07-07T15:06:57.5872350Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 79 ms.
+    DateTime=2021-07-07T15:06:57.5872350Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 297 ms.
+    DateTime=2021-07-07T15:06:57.8052346Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-07T15:06:57.8052346Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-07T15:16:38.3651271Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-07T15:16:38.4087281Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-07-07T15:16:38.4257290Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 16 ms.
+    DateTime=2021-07-07T15:16:38.4267309Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 167 ms.
+    DateTime=2021-07-07T15:16:38.5767292Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-07T15:16:38.5777291Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-11T13:06:59.6281417Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-11T13:06:59.7432679Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-07-11T13:06:59.7873052Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 43 ms.
+    DateTime=2021-07-11T13:06:59.7873052Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 205 ms.
+    DateTime=2021-07-11T13:06:59.9502682Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-11T13:06:59.9502682Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-12T16:10:24.1276298Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-12T16:10:24.2888864Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-07-12T16:10:24.3768614Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 82 ms.
+    DateTime=2021-07-12T16:10:24.3768614Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 625 ms.
+    DateTime=2021-07-12T16:10:24.9298744Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-12T16:10:24.9298744Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-13T06:12:54.7214913Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-13T06:12:54.9054901Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-07-13T06:12:55.0594879Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 151 ms.
+    DateTime=2021-07-13T06:12:55.0624880Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 582 ms.
+    DateTime=2021-07-13T06:12:55.4934898Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-13T06:12:55.4974884Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-13T06:22:11.1771466Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-13T06:22:11.2121144Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-07-13T06:22:11.2411125Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 27 ms.
+    DateTime=2021-07-13T06:22:11.2411125Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 106 ms.
+    DateTime=2021-07-13T06:22:11.3201111Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-13T06:22:11.3201111Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-14T07:33:07.2780556Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-14T07:33:07.3592395Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-07-14T07:33:07.4096705Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 47 ms.
+    DateTime=2021-07-14T07:33:07.4096705Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 295 ms.
+    DateTime=2021-07-14T07:33:07.6519034Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-14T07:33:07.6519034Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-14T07:42:31.4917438Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-14T07:42:31.6384178Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-07-14T07:42:31.8134152Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 173 ms.
+    DateTime=2021-07-14T07:42:31.8164156Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 711 ms.
+    DateTime=2021-07-14T07:42:32.3565177Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-14T07:42:32.3595175Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-14T07:48:05.1559358Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-14T07:48:05.2419356Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-07-14T07:48:05.2819349Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 38 ms.
+    DateTime=2021-07-14T07:48:05.2819349Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 159 ms.
+    DateTime=2021-07-14T07:48:05.4029352Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-14T07:48:05.4029352Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-14T07:50:41.3021339Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-14T07:50:41.4738326Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 0 total, 0 incompatible.
+    DateTime=2021-07-14T07:50:41.5408311Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 66 ms.
+    DateTime=2021-07-14T07:50:41.5438310Z
+SmartStore Verbose: 16 : Plugin changes detected in hash.
+    DateTime=2021-07-14T07:50:41.5598330Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 180 ms.
+    DateTime=2021-07-14T07:50:41.6578332Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-14T07:50:41.6608321Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-14T07:55:16.6878852Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-14T07:55:16.8328846Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 0 total, 0 incompatible.
+    DateTime=2021-07-14T07:55:16.9606328Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 127 ms.
+    DateTime=2021-07-14T07:55:16.9656318Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 152 ms.
+    DateTime=2021-07-14T07:55:16.9901413Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-14T07:55:16.9921422Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-14T08:02:47.4270895Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-14T08:02:47.5670896Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 0 total, 0 incompatible.
+    DateTime=2021-07-14T08:02:47.6736724Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 106 ms.
+    DateTime=2021-07-14T08:02:47.6776729Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 126 ms.
+    DateTime=2021-07-14T08:02:47.6976732Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-14T08:02:47.7016738Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-14T08:26:11.4454834Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-14T08:26:11.5807562Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-07-14T08:26:11.6617572Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 80 ms.
+    DateTime=2021-07-14T08:26:11.6647572Z
+SmartStore Verbose: 16 : Plugin changes detected in hash.
+    DateTime=2021-07-14T08:26:11.6797569Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 310 ms.
+    DateTime=2021-07-14T08:26:11.8957558Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-14T08:26:11.9007547Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-14T12:48:13.3706222Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-14T12:48:13.4076205Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-07-14T12:48:13.4436239Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 35 ms.
+    DateTime=2021-07-14T12:48:13.4436239Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 146 ms.
+    DateTime=2021-07-14T12:48:13.5546218Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-14T12:48:13.5546218Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-14T12:48:52.7748977Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-14T12:48:52.8138839Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-07-14T12:48:52.8368827Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 22 ms.
+    DateTime=2021-07-14T12:48:52.8378844Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 138 ms.
+    DateTime=2021-07-14T12:48:52.9528840Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-14T12:48:52.9528840Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-14T12:49:34.8132450Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-14T12:49:34.8482444Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-07-14T12:49:34.8602444Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 11 ms.
+    DateTime=2021-07-14T12:49:34.8602444Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 116 ms.
+    DateTime=2021-07-14T12:49:34.9662447Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-14T12:49:34.9662447Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-07-14T16:51:31.6313309Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-07-14T16:51:31.7093312Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-07-14T16:51:31.7443303Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 34 ms.
+    DateTime=2021-07-14T16:51:31.7443303Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 263 ms.
+    DateTime=2021-07-14T16:51:31.9743299Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-07-14T16:51:31.9743299Z

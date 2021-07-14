@@ -1,0 +1,372 @@
+﻿SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-07T08:01:11.4991957Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-04-07T08:01:11.5291983Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 11 incompatible.
+    DateTime=2021-04-07T08:01:11.5601964Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 30 ms.
+    DateTime=2021-04-07T08:01:11.5601964Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 46 ms.
+    DateTime=2021-04-07T08:01:11.5771927Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-07T08:01:11.5771927Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-07T08:02:04.9585534Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x64'.
+    DateTime=2021-04-07T08:02:05.1375160Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 11 incompatible.
+    DateTime=2021-04-07T08:02:05.3785173Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 238 ms.
+    DateTime=2021-04-07T08:02:05.3815150Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 270 ms.
+    DateTime=2021-04-07T08:02:05.4125150Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-07T08:02:05.4155147Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-07T08:02:13.4344691Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-04-07T08:02:13.4574679Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 11 incompatible.
+    DateTime=2021-04-07T08:02:13.4694677Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 10 ms.
+    DateTime=2021-04-07T08:02:13.4694677Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 19 ms.
+    DateTime=2021-04-07T08:02:13.4784688Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-07T08:02:13.4784688Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-07T12:06:12.0628661Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-04-07T12:06:12.1318770Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 11 incompatible.
+    DateTime=2021-04-07T12:06:12.1787634Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 34 ms.
+    DateTime=2021-04-07T12:06:12.1787634Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 54 ms.
+    DateTime=2021-04-07T12:06:12.1943874Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-07T12:06:12.1943874Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-07T12:08:07.4608235Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x64'.
+    DateTime=2021-04-07T12:08:07.6263275Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 11 incompatible.
+    DateTime=2021-04-07T12:08:07.7053250Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 77 ms.
+    DateTime=2021-04-07T12:08:07.7063257Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 99 ms.
+    DateTime=2021-04-07T12:08:07.7283238Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-07T12:08:07.7283238Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-08T16:13:02.4569466Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x64'.
+    DateTime=2021-04-08T16:13:02.5119430Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 11 incompatible.
+    DateTime=2021-04-08T16:13:02.5249774Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 11 ms.
+    DateTime=2021-04-08T16:13:02.5249774Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 13 ms.
+    DateTime=2021-04-08T16:13:02.5269430Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-08T16:13:02.5269430Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-09T11:56:43.3875092Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x64'.
+    DateTime=2021-04-09T11:56:43.5374643Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 11 incompatible.
+    DateTime=2021-04-09T11:56:43.5984677Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 58 ms.
+    DateTime=2021-04-09T11:56:43.5984677Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 71 ms.
+    DateTime=2021-04-09T11:56:43.6104639Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-09T11:56:43.6115135Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-09T12:11:32.3796676Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x64'.
+    DateTime=2021-04-09T12:11:32.4386671Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-04-09T12:11:32.4666684Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 26 ms.
+    DateTime=2021-04-09T12:11:32.4666684Z
+SmartStore Verbose: 16 : Plugin changes detected in hash.
+    DateTime=2021-04-09T12:11:32.4716669Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 166 ms.
+    DateTime=2021-04-09T12:11:32.6056718Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-09T12:11:32.6056718Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-09T12:25:01.2012160Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-04-09T12:25:01.2442151Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-04-09T12:25:01.2792155Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 34 ms.
+    DateTime=2021-04-09T12:25:01.2792155Z
+SmartStore Verbose: 16 : Plugin changes detected in hash.
+    DateTime=2021-04-09T12:25:01.2902156Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 132 ms.
+    DateTime=2021-04-09T12:25:01.3772155Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-09T12:25:01.3772155Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-12T11:38:53.6225091Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x64'.
+    DateTime=2021-04-12T11:38:53.7945609Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-04-12T11:38:53.8800113Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 83 ms.
+    DateTime=2021-04-12T11:38:53.8809638Z
+SmartStore Verbose: 16 : Plugin changes detected in hash.
+    DateTime=2021-04-12T11:38:53.8939910Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 264 ms.
+    DateTime=2021-04-12T11:38:54.0609992Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-12T11:38:54.0609992Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-12T11:54:31.9499475Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-04-12T11:54:32.0149548Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-04-12T11:54:32.0389462Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 23 ms.
+    DateTime=2021-04-12T11:54:32.0389462Z
+SmartStore Verbose: 16 : Plugin changes detected in hash.
+    DateTime=2021-04-12T11:54:32.0469116Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 178 ms.
+    DateTime=2021-04-12T11:54:32.1949125Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-12T11:54:32.1949125Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-12T12:52:58.5308653Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x64'.
+    DateTime=2021-04-12T12:52:58.5668945Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-04-12T12:52:58.5808649Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 13 ms.
+    DateTime=2021-04-12T12:52:58.5808649Z
+SmartStore Verbose: 16 : Plugin changes detected in hash.
+    DateTime=2021-04-12T12:52:58.5858947Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\DotNetOpenAuth.OpenId.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.5988621Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\SmartStore.ShippingByWeight.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.5988621Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\AmazonPay.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6008636Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\MiniProfiler.Shared.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6018647Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\DotNetOpenAuth.AspNet.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6028632Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\Mono.Math.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6028632Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\SmartStore.AmazonPay.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6038431Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\SmartStore.GoogleAnalytics.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6038431Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\SmartStore.Shipping.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6048527Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\MiniProfiler.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6048527Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\DotNetOpenAuth.OAuth.Consumer.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6048527Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\SmartStore.FacebookAuth.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6058503Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\DotNetOpenAuth.OpenId.RelyingParty.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6058503Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\SmartStore.Clickatell.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6068542Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\Common.Logging.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6088499Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\SmartStore.DevTools.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6088499Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\Org.Mentalis.Security.Cryptography.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6088499Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\DotNetOpenAuth.Core.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6088499Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\DotNetOpenAuth.OAuth.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6088499Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\SmartStore.Tax.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6098534Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\SmartStore.OfflinePayment.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6098534Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\MiniProfiler.EF6.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6098534Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\SmartStore.PayPal.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6098534Z
+SmartStore Error: 2 : Stale plugin C:\Users\Nigus\AppData\Local\Temp\Temporary ASP.NET Files\vs\f1d9e584\c057e307\SmartStore.GoogleMerchantCenter.dll failed to cleanup successfully. A .delete file has been created for it.
+    DateTime=2021-04-12T12:52:58.6098534Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 133 ms.
+    DateTime=2021-04-12T12:52:58.7008841Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-12T12:52:58.7008841Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-12T13:06:27.8754150Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x64'.
+    DateTime=2021-04-12T13:06:28.0484142Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-04-12T13:06:28.1864146Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 136 ms.
+    DateTime=2021-04-12T13:06:28.1884134Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 1577 ms.
+    DateTime=2021-04-12T13:06:29.6300445Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-12T13:06:29.6320448Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-12T13:07:53.6923764Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x64'.
+    DateTime=2021-04-12T13:07:53.8253794Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-04-12T13:07:53.9903780Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 163 ms.
+    DateTime=2021-04-12T13:07:53.9923756Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 488 ms.
+    DateTime=2021-04-12T13:07:54.3173792Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-12T13:07:54.3193761Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-13T11:49:12.2475714Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x64'.
+    DateTime=2021-04-13T11:49:12.4485738Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-04-13T11:49:12.7045733Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 253 ms.
+    DateTime=2021-04-13T11:49:12.7075727Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 798 ms.
+    DateTime=2021-04-13T11:49:13.2531480Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-13T11:49:13.2561444Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-13T11:49:35.9610460Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-04-13T11:49:35.9880453Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-04-13T11:49:36.0080462Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 18 ms.
+    DateTime=2021-04-13T11:49:36.0080462Z
+SmartStore Verbose: 16 : Plugin changes detected in hash.
+    DateTime=2021-04-13T11:49:36.0140464Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 94 ms.
+    DateTime=2021-04-13T11:49:36.0840459Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-13T11:49:36.0840459Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-13T13:46:09.0053313Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x64'.
+    DateTime=2021-04-13T13:46:09.2103319Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-04-13T13:46:09.5083268Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 261 ms.
+    DateTime=2021-04-13T13:46:09.5113306Z
+SmartStore Verbose: 16 : Plugin changes detected in hash.
+    DateTime=2021-04-13T13:46:09.5263312Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 929 ms.
+    DateTime=2021-04-13T13:46:10.1783309Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-13T13:46:10.1813298Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-13T13:48:55.0579741Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x64'.
+    DateTime=2021-04-13T13:48:55.2439740Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-04-13T13:48:55.4409739Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 195 ms.
+    DateTime=2021-04-13T13:48:55.4429759Z
+SmartStore Verbose: 16 : Plugin changes detected in hash.
+    DateTime=2021-04-13T13:48:55.4589753Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 695 ms.
+    DateTime=2021-04-13T13:48:55.9435833Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-13T13:48:55.9455824Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-13T15:55:33.0746126Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x64'.
+    DateTime=2021-04-13T15:55:33.3242921Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-04-13T15:55:33.5011012Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 174 ms.
+    DateTime=2021-04-13T15:55:33.5041010Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 757 ms.
+    DateTime=2021-04-13T15:55:34.0877015Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-13T15:55:34.0906995Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-14T10:41:42.9386018Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x64'.
+    DateTime=2021-04-14T10:41:43.1386009Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-04-14T10:41:43.2366021Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 96 ms.
+    DateTime=2021-04-14T10:41:43.2366021Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 250 ms.
+    DateTime=2021-04-14T10:41:43.3906020Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-14T10:41:43.3906020Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-14T11:09:01.6569240Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x64'.
+    DateTime=2021-04-14T11:09:01.6939278Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-04-14T11:09:01.7069218Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 12 ms.
+    DateTime=2021-04-14T11:09:01.7069218Z
+SmartStore Verbose: 16 : Plugin changes detected in hash.
+    DateTime=2021-04-14T11:09:01.7109218Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 113 ms.
+    DateTime=2021-04-14T11:09:01.8079241Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-14T11:09:01.8079241Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-14T12:17:09.0470838Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x64'.
+    DateTime=2021-04-14T12:17:09.1080837Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-04-14T12:17:09.1290841Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 19 ms.
+    DateTime=2021-04-14T12:17:09.1290841Z
+SmartStore Verbose: 16 : Plugin changes detected in hash.
+    DateTime=2021-04-14T12:17:09.1351182Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 160 ms.
+    DateTime=2021-04-14T12:17:09.2700838Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-14T12:17:09.2700838Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-14T12:31:03.7777238Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2021-04-14T12:31:03.8236884Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-04-14T12:31:03.8716889Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 46 ms.
+    DateTime=2021-04-14T12:31:03.8716889Z
+SmartStore Verbose: 16 : Plugin changes detected in hash.
+    DateTime=2021-04-14T12:31:03.8857140Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 136 ms.
+    DateTime=2021-04-14T12:31:03.9626915Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-14T12:31:03.9626915Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-19T11:09:26.3026677Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x64'.
+    DateTime=2021-04-19T11:09:26.4737100Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-04-19T11:09:26.5596823Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 84 ms.
+    DateTime=2021-04-19T11:09:26.5596823Z
+SmartStore Verbose: 16 : Plugin changes detected in hash.
+    DateTime=2021-04-19T11:09:26.5726845Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 266 ms.
+    DateTime=2021-04-19T11:09:26.7427182Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-19T11:09:26.7427182Z
+SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2021-04-22T15:15:33.0725572Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x64'.
+    DateTime=2021-04-22T15:15:33.2495576Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 0 incompatible.
+    DateTime=2021-04-22T15:15:33.4340251Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 183 ms.
+    DateTime=2021-04-22T15:15:33.4380328Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 571 ms.
+    DateTime=2021-04-22T15:15:33.8259613Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2021-04-22T15:15:33.8289634Z

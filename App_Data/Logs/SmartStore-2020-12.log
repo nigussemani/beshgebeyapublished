@@ -1,0 +1,12 @@
+﻿SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2020-12-01T12:03:24.0111978Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\code\SmartStoreNET\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2020-12-01T12:03:24.0581979Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 11 total, 11 incompatible.
+    DateTime=2020-12-01T12:03:24.1201975Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 60 ms.
+    DateTime=2020-12-01T12:03:24.1201975Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 81 ms.
+    DateTime=2020-12-01T12:03:24.1411974Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2020-12-01T12:03:24.1411974Z
